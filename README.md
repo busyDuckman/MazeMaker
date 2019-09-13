@@ -19,7 +19,7 @@ Gestures like that make my day.
 
 ![Screen Shot](Maze2.0/Busyducks/maze.png?raw=true "Screen Shot")
 
-![Example Output](Maze2.0/Busyducks/maze.png?raw=true "Example Output")
+![Example Output](Maze2.0/Busyducks/output_examples1.png?raw=true "Example Output")
 
 ##Limitations:
   - Beta software (minor bugs to iron out, but quite usable)
