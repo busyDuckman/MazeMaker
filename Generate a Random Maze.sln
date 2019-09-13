@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29230.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maze Maker", "Maze2.0\Maze Maker.csproj", "{7B571F15-6815-4947-9AF6-BD35D7EFF805}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+		Test 32bit|Any CPU = Test 32bit|Any CPU
+		Test 32bit|Mixed Platforms = Test 32bit|Mixed Platforms
+		Test 32bit|x64 = Test 32bit|x64
+		Test 32bit|x86 = Test 32bit|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B571F15-6815-4947-9AF6-BD35D7EFF805}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B571F15-6815-4947-9AF6-BD35D7EFF805}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B571F15-6815-4947-9AF6-BD35D7EFF805}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{7B571F15-6815-4947-9AF6-BD35D7EFF805}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{7B571F15-6815-4947-9AF6-BD35D7EFF805}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{7B571F15-6815-4947-9AF6-BD35D7EFF805}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{7B571F15-6815-4947-9AF6-BD35D7EFF805}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B571F15-6815-4947-9AF6-BD35D7EFF805}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B571F15-6815-4947-9AF6-BD35D7EFF805}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{7B571F15-6815-4947-9AF6-BD35D7EFF805}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{7B571F15-6815-4947-9AF6-BD35D7EFF805}.Release|x64.ActiveCfg = Release|Any CPU
+		{7B571F15-6815-4947-9AF6-BD35D7EFF805}.Release|x86.ActiveCfg = Release|Any CPU
+		{7B571F15-6815-4947-9AF6-BD35D7EFF805}.Test 32bit|Any CPU.ActiveCfg = Release|Any CPU
+		{7B571F15-6815-4947-9AF6-BD35D7EFF805}.Test 32bit|Any CPU.Build.0 = Release|Any CPU
+		{7B571F15-6815-4947-9AF6-BD35D7EFF805}.Test 32bit|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{7B571F15-6815-4947-9AF6-BD35D7EFF805}.Test 32bit|Mixed Platforms.Build.0 = Release|Any CPU
+		{7B571F15-6815-4947-9AF6-BD35D7EFF805}.Test 32bit|x64.ActiveCfg = Release|Any CPU
+		{7B571F15-6815-4947-9AF6-BD35D7EFF805}.Test 32bit|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11DE32C7-E222-4440-A40A-45623AD54E5E}
+	EndGlobalSection
+EndGlobal
