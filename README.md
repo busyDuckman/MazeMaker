@@ -4,7 +4,7 @@ This software creates mazes of different sizes and configurable appearance.
   - It can save the output as printable sheets or bitmap images.
   
 ## Download
-  (Zip file with setup for windows)[https://github.com/busyDuckman/MazeMaker/releases/download/v_0.9/maze_v0.9.zip]
+  [Zip file with setup for windows](https://github.com/busyDuckman/MazeMaker/releases/download/v_0.9/maze_v0.9.zip)
 
 ## Relevent web page with user documentation.
 http://busyducks.com/wp_4_1/2015/07/03/maze-software/
